@@ -1,0 +1,3 @@
+# Its is a research on the TITANIC SURVIVAL data from kaggle, 
+where I researched whether a person has chances of surviving on the basis of SEX, CLASS in which he was travelling, 
+explore the repo, go on....
